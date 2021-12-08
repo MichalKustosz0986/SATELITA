@@ -9,3 +9,5 @@
 -po dluższej chwili dzialania "symulacji" można zobaczyć zakreslane przez elipsy rozety.
 
 
+
+
